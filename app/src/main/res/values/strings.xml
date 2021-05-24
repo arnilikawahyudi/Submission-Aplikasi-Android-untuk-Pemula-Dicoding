@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Wisata Dumai</string>
+    <string name="nama_wisata">nama_wisata</string>
+    <string name="detail_wisata">detail_wisata</string>
+    <string name="harga">harga</string>
+    <string name="share">share</string>
+    <string name="e_mail">E-mail</string>
+</resources>
